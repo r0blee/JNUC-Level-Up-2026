@@ -1,0 +1,10 @@
+{
+  "id": "1",
+  "name": "jnuc-mac-01",
+  "general": {
+    "assetTag": "IT-00042",
+    "mdmCapable": {
+      "capable": true
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "name": "jnuc-mac-01",
+  "applications": [
+    { "name": "Safari", "version": "17.0" },
+    { "name": "Slack", "version": "4.36.140" },
+    { "name": "Terminal", "version": "2.14" }
+  ]
+}
